@@ -1,6 +1,6 @@
 cask "depradar" do
-  version "1.0.0"
-  sha256 "1a51cf4b8478109082095da6ab9d9f506a3e76b0e44c13fc47d45f51ebdcb712"
+  version "1.0.1"
+  sha256 "7e58b498760d2e7bd26e14f8ff0eb96249e13f2ba7d536f11878647b96f8d7a3"
 
   url "https://github.com/depradar-app/depradar/releases/download/v#{version}/DepRadar_#{version}_universal.dmg"
   name "DepRadar"
